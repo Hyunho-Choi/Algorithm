@@ -1,8 +1,6 @@
 import sys
 from collections import deque
 
-T=int(sys.stdin.readline())
-
 def input():
     return sys.stdin.readline().strip()
 
