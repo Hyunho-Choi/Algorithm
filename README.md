@@ -13,3 +13,6 @@
 
 ## 📌 참고사이트
 * [삼성기출문제](https://www.acmicpc.net/workbook/view/1152)
+* [프로그래머스](https://programmers.co.kr)
+* [백준](https://www.acmicpc.net)
+* [백준 난이도 알려주는 사이트](https://solved.ac)
