@@ -4,7 +4,7 @@
 
 
 ## 🖥 문제
-* [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) - 21.03.07 - 최현호
+* [조이스틱_프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42860) - 21.03.07 - 최현호
   * [ ] 최현호
   * [ ] 이장근
   * [ ] 안재욱
