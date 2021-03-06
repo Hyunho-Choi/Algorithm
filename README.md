@@ -9,4 +9,4 @@
   * [x] 이름3 
 
 ## 📌 참고사이트
-* 삼성기출문제
+* [삼성기출문제](https://www.acmicpc.net/workbook/view/1152)
