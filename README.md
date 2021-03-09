@@ -12,6 +12,7 @@
   * [ ] 이현우
   * [ ] 이정운
 * [크게 만들기 백준](https://www.acmicpc.net/problem/2812) - 21.03.08 - 최현호
+* [크게 만들기 프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42883) - 21.03.09 - 임우재
   * [X] 최현호
   * [ ] 이장근
   * [ ] 안재욱
